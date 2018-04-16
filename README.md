@@ -2,7 +2,7 @@
 
 ### Memory Management System
 
-**Project Specifications : **
+**Project Specifications :**
 
 1. Kernel heap: allow the kernel to dynamically allocate and free memory space at run-time (for user directory, page tables …etc.)
 
